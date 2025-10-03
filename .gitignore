@@ -1,0 +1,11 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.idea/
+python/__pycache__/
+python/stream/__pycache__/
+misc/results_repository/
+misc/__pycache__/
+misc/iframe_figures/
